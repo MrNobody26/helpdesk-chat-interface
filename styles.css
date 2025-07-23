@@ -9,7 +9,7 @@ body {
   color: #e0e6f0;
   line-height: 1.6;
   background-color: #0d1117;
-  background-image: url("images/ai-background.svg");
+  /* background-image: url("images/ai-background.svg"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
